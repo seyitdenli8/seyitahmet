@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Her gün gece yarısı çalışır (UTC)
+  schedule: [{ cron: "0 0 * * *" }]
+  # Elle de tetikleyebilmek için
+  workflow_dispatch:
+  # main'e her push'ta da güncellesin
+  push: { branches: ["main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Sadece isocalendar çıktısı istiyoruz, varsayılan header kapalı
+          base: ""
+          # 3 boyutlu izometrik katkı takvimi
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
