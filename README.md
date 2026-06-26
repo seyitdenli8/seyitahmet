@@ -32,8 +32,8 @@ Mobile toolkit: TanStack Query · Zustand · MMKV · react-hook-form + zod · On
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyitdenli8&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitdenli8&layout=compact&hide_border=true&langs_count=6" height="160" />
 </p>
 🤝 Connect
 
