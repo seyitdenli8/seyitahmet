@@ -35,6 +35,11 @@ Mobile toolkit: TanStack Query · Zustand · MMKV · react-hook-form + zod · On
   <img src="https://github-readme-stats.vercel.app/api?username=seyitdenli8&show_icons=true&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitdenli8&layout=compact&hide_border=true&langs_count=6" height="160" />
 </p>
+🗓️ Contribution Calendar
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Isometric contribution calendar" />
+</p>
 🤝 Connect
 
 Show Image
