@@ -18,14 +18,7 @@
 
 🛠️ Tech I work with
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 Mobile toolkit: TanStack Query · Zustand · MMKV · react-hook-form + zod · OneSignal
 
