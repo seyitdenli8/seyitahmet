@@ -34,7 +34,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=flat&logo=onesignal&logoColor=white)
-![Swagger UI](https://img.shields.io/swagger/valid/3.0)
 
 
 Mobile toolkit: TanStack Query · Zustand · MMKV · react-hook-form + zod · OneSignal
