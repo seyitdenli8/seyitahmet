@@ -33,7 +33,7 @@
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=appstore&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
+![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=flat&logo=onesignal&logoColor=white)
 
 
 Mobile toolkit: TanStack Query · Zustand · MMKV · react-hook-form + zod · OneSignal
